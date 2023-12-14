@@ -1,8 +1,4 @@
 # testing-github-repo
-<<<<<<< HEAD
-
-
-# Example Repo edits
 Testing Github Repo
 # Header1
 ## Header2
@@ -78,4 +74,3 @@ git status
 git commit -m "Modified Code"
 git push origin main
 ```
->>>>>>> 8ee460b6048a62906416da7718a4c5ae7825e013
